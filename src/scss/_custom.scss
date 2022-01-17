@@ -1,1 +1,12 @@
+$lilaPastel: #E2DFF1;
+$verdePastel: #BBE0E0;
+
+// Asignar a la paleta de colores de bootstrap
+$primary: $lilaPastel;
+$secondary: $verdePastel; 
+
+// Tipografía
+$display-font-weight: 900;
+$heading-font-weight: 700;
+
 @import '../../node_modules/bootstrap/scss/bootstrap.scss';
